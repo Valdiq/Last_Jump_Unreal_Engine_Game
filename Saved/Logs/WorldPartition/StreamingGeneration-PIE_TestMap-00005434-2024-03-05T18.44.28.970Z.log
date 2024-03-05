@@ -1,0 +1,188 @@
+[+] Containers:
+ |- [+] Container: /Game/Last_Jump/Maps/TestMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:06F979C44F37A9AE65B89DBA2E0C355E BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_EC2E98E46D5052DD01_1612586980 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2103.647 Y=-1936.353 Z=8.000), Max=(X=2216.353 Y=-1823.647 Z=192.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:274F547D42017F1D26AE028FCFB3C274 BaseClass:/Game/Last_Jump/Main/Pickup/BP_Pickup.BP_Pickup_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_C_UAID_EC2E98E46D5092DF01_2030445344 Label:BP_Pickup2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1219.000 Y=-251.000 Z=284.000), Max=(X=1321.000 Y=-149.000 Z=386.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:351364D04A34952E24BAA78D9CDE8E6B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_EC2E98E46D5052DD01_1573278979 Label:SM_FloatingIsland_L SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3150.549 Y=-2412.370 Z=-3682.432), Max=(X=2787.081 Y=2133.443 Z=-20.135) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3B9950D546F581158BDB29A439F7845E BaseClass:/Game/Last_Jump/Pickups/BP_Key.BP_Key_C NativeClass:/Script/Engine.Actor Name:BP_Key_C_UAID_EC2E98E46D5095DF01_1188230880 Label:BP_Key3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-621.000 Y=399.000 Z=524.000), Max=(X=-519.000 Y=501.000 Z=626.785) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:41CC3BFF487773F93D1FFB9170EF2055 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:59E627A04ADF1AA43A023D9CCF8CECDC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_EC2E98E46D5052DD01_1737457981 Label:MA_setDressing_c SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=802.761 Y=-413.652 Z=76.033), Max=(X=1120.446 Y=22.038 Z=196.018) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:61AEE3284C59C0985DFE45872CDCC2BD BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_EC2E98E46D5051DD01_1628062800 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=90.000 Y=0.000 Z=600.000), Max=(X=90.000 Y=0.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:7B755A2B4DF7C06DF3136D883373B813
+ |   |   |- Guid:709D89D4446239F154D944972E3E2E08 BaseClass:/Game/Last_Jump/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_EC2E98E46D5094DF01_1996110701 Label:BP_Coin SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=119.000 Y=-411.000 Z=124.000), Max=(X=221.000 Y=-309.000 Z=226.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:915E72B34FC5AF3BE5617AA2E8BCF863 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_EC2E98E46D5052DD01_1827102982 Label:MA_setDressing_c2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1102.761 Y=-413.652 Z=-23.967), Max=(X=1420.446 Y=22.038 Z=96.018) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:94700A88416F978C03F1A58E3ABC57CA BaseClass:/Game/Last_Jump/Main/Pickup/BP_Pickup.BP_Pickup_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_C_UAID_EC2E98E46D5092DF01_1999235343 Label:BP_Pickup SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=919.000 Y=-241.000 Z=404.000), Max=(X=1021.000 Y=-139.000 Z=506.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:981AF0FD48404EAB9F554EAB8E929DC8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_EC2E98E46D5093DF01_1421943524 Label:SM_Kit_Wall_Door SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1940.000 Y=94.710 Z=-20.000), Max=(X=-1539.999 Y=191.330 Z=380.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:99C16E3F4CD8AA10D4376688E1580272 BaseClass:/Game/Last_Jump/Main/Pickup/BP_Pickup.BP_Pickup_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_C_UAID_EC2E98E46D5093DF01_1129058522 Label:BP_Pickup4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=919.000 Y=-241.000 Z=754.000), Max=(X=1021.000 Y=-139.000 Z=856.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A045840742EAF18F6780E991BBFB2FF2 BaseClass:/Game/Last_Jump/Pickups/BP_Key.BP_Key_C NativeClass:/Script/Engine.Actor Name:BP_Key_C_UAID_EC2E98E46D5095DF01_1186926879 Label:BP_Key2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-821.000 Y=1069.000 Z=304.000), Max=(X=-719.000 Y=1171.000 Z=406.785) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BAE0904C4325B74A075F9AA5C9B70EE7 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_EC2E98E46D5051DD01_1637264802 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=90.000 Y=0.000 Z=500.000), Max=(X=90.000 Y=0.000 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:7B755A2B4DF7C06DF3136D883373B813
+ |   |   |- Guid:BF58F34F40C8465BDAE089A15BDFE462 BaseClass:/Game/Last_Jump/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_EC2E98E46D5095DF01_1415774882 Label:BP_Coin2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-681.000 Y=529.000 Z=54.000), Max=(X=-579.000 Y=631.000 Z=156.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C1834A5949CCA46CF904B1B3E879BA7B BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_EC2E98E46D5051DD01_1631724801 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=90.000 Y=0.000 Z=700.000), Max=(X=90.000 Y=0.000 Z=700.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:7B755A2B4DF7C06DF3136D883373B813
+ |   |   |- Guid:C497A97A4D824507006C259B3081E8C1 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_EC2E98E46D5093DF01_1169494523 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=90.000 Y=-20.000 Z=810.000), Max=(X=90.000 Y=-20.000 Z=810.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:7B755A2B4DF7C06DF3136D883373B813
+ |   |   |- Guid:DB4250314CB125F3EB882EA28B727577 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_EC2E98E46D5051DD01_1622680799 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:7B755A2B4DF7C06DF3136D883373B813
+ |   |   |- Guid:EF7AD8934B4CD1A87A0D3A976416A0C4 BaseClass:/Game/Last_Jump/Main/Pickup/BP_Pickup.BP_Pickup_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_C_UAID_EC2E98E46D5093DF01_1114611521 Label:BP_Pickup3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1099.000 Y=-241.000 Z=504.000), Max=(X=1201.000 Y=-139.000 Z=606.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F9C9A42244B1D39C9E8B53B2162DC1CE BaseClass:/Game/Last_Jump/Pickups/BP_Key.BP_Key_C NativeClass:/Script/Engine.Actor Name:BP_Key_C_UAID_EC2E98E46D5094DF01_2131870702 Label:BP_Key SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1121.000 Y=399.000 Z=304.000), Max=(X=-1019.000 Y=501.000 Z=406.785) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:06F979C44F37A9AE65B89DBA2E0C355E BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_EC2E98E46D5052DD01_1612586980 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2103.647 Y=-1936.353 Z=8.000), Max=(X=2216.353 Y=-1823.647 Z=192.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:274F547D42017F1D26AE028FCFB3C274 BaseClass:/Game/Last_Jump/Main/Pickup/BP_Pickup.BP_Pickup_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_C_UAID_EC2E98E46D5092DF01_2030445344 Label:BP_Pickup2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1219.000 Y=-251.000 Z=284.000), Max=(X=1321.000 Y=-149.000 Z=386.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:351364D04A34952E24BAA78D9CDE8E6B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_EC2E98E46D5052DD01_1573278979 Label:SM_FloatingIsland_L SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3150.549 Y=-2412.370 Z=-3682.432), Max=(X=2787.081 Y=2133.443 Z=-20.135) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:3B9950D546F581158BDB29A439F7845E BaseClass:/Game/Last_Jump/Pickups/BP_Key.BP_Key_C NativeClass:/Script/Engine.Actor Name:BP_Key_C_UAID_EC2E98E46D5095DF01_1188230880 Label:BP_Key3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-621.000 Y=399.000 Z=524.000), Max=(X=-519.000 Y=501.000 Z=626.785) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:41CC3BFF487773F93D1FFB9170EF2055 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:59E627A04ADF1AA43A023D9CCF8CECDC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_EC2E98E46D5052DD01_1737457981 Label:MA_setDressing_c SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=802.761 Y=-413.652 Z=76.033), Max=(X=1120.446 Y=22.038 Z=196.018) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:61AEE3284C59C0985DFE45872CDCC2BD BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_EC2E98E46D5051DD01_1628062800 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=90.000 Y=0.000 Z=600.000), Max=(X=90.000 Y=0.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:7B755A2B4DF7C06DF3136D883373B813
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:709D89D4446239F154D944972E3E2E08 BaseClass:/Game/Last_Jump/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_EC2E98E46D5094DF01_1996110701 Label:BP_Coin SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=119.000 Y=-411.000 Z=124.000), Max=(X=221.000 Y=-309.000 Z=226.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:915E72B34FC5AF3BE5617AA2E8BCF863 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_EC2E98E46D5052DD01_1827102982 Label:MA_setDressing_c2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1102.761 Y=-413.652 Z=-23.967), Max=(X=1420.446 Y=22.038 Z=96.018) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:94700A88416F978C03F1A58E3ABC57CA BaseClass:/Game/Last_Jump/Main/Pickup/BP_Pickup.BP_Pickup_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_C_UAID_EC2E98E46D5092DF01_1999235343 Label:BP_Pickup SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=919.000 Y=-241.000 Z=404.000), Max=(X=1021.000 Y=-139.000 Z=506.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:981AF0FD48404EAB9F554EAB8E929DC8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_EC2E98E46D5093DF01_1421943524 Label:SM_Kit_Wall_Door SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1940.000 Y=94.710 Z=-20.000), Max=(X=-1539.999 Y=191.330 Z=380.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:99C16E3F4CD8AA10D4376688E1580272 BaseClass:/Game/Last_Jump/Main/Pickup/BP_Pickup.BP_Pickup_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_C_UAID_EC2E98E46D5093DF01_1129058522 Label:BP_Pickup4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=919.000 Y=-241.000 Z=754.000), Max=(X=1021.000 Y=-139.000 Z=856.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:A045840742EAF18F6780E991BBFB2FF2 BaseClass:/Game/Last_Jump/Pickups/BP_Key.BP_Key_C NativeClass:/Script/Engine.Actor Name:BP_Key_C_UAID_EC2E98E46D5095DF01_1186926879 Label:BP_Key2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-821.000 Y=1069.000 Z=304.000), Max=(X=-719.000 Y=1171.000 Z=406.785) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:BAE0904C4325B74A075F9AA5C9B70EE7 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_EC2E98E46D5051DD01_1637264802 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=90.000 Y=0.000 Z=500.000), Max=(X=90.000 Y=0.000 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:7B755A2B4DF7C06DF3136D883373B813
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:BF58F34F40C8465BDAE089A15BDFE462 BaseClass:/Game/Last_Jump/Pickups/BP_Coin.BP_Coin_C NativeClass:/Script/Engine.Actor Name:BP_Coin_C_UAID_EC2E98E46D5095DF01_1415774882 Label:BP_Coin2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-681.000 Y=529.000 Z=54.000), Max=(X=-579.000 Y=631.000 Z=156.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:C1834A5949CCA46CF904B1B3E879BA7B BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_EC2E98E46D5051DD01_1631724801 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=90.000 Y=0.000 Z=700.000), Max=(X=90.000 Y=0.000 Z=700.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:7B755A2B4DF7C06DF3136D883373B813
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:C497A97A4D824507006C259B3081E8C1 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_EC2E98E46D5093DF01_1169494523 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=90.000 Y=-20.000 Z=810.000), Max=(X=90.000 Y=-20.000 Z=810.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:7B755A2B4DF7C06DF3136D883373B813
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:DB4250314CB125F3EB882EA28B727577 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_EC2E98E46D5051DD01_1622680799 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:7B755A2B4DF7C06DF3136D883373B813
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:EF7AD8934B4CD1A87A0D3A976416A0C4 BaseClass:/Game/Last_Jump/Main/Pickup/BP_Pickup.BP_Pickup_C NativeClass:/Script/Engine.Actor Name:BP_Pickup_C_UAID_EC2E98E46D5093DF01_1114611521 Label:BP_Pickup3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1099.000 Y=-241.000 Z=504.000), Max=(X=1201.000 Y=-139.000 Z=606.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:F9C9A42244B1D39C9E8B53B2162DC1CE BaseClass:/Game/Last_Jump/Pickups/BP_Key.BP_Key_C NativeClass:/Script/Engine.Actor Name:BP_Key_C_UAID_EC2E98E46D5094DF01_2131870702 Label:BP_Key SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1121.000 Y=399.000 Z=304.000), Max=(X=-1019.000 Y=501.000 Z=406.785) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-3150.549 Y=-2412.370 Z=-3682.432), Max=(X=2787.081 Y=2133.443 Z=856.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Last_Jump/Maps/TestMap
+----------------------------------------------------------------------------------------------------------------
+TestMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of TestMap Persistent Level
+ |- Always loaded Actor Count: 26 
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Last_Jump/Maps/TestMap
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.BP_Coin_C_UAID_EC2E98E46D5094DF01_1996110701
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/9/D8/SJCUCQTH2R5K4TJ0GR07RN
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.BP_Coin_C_UAID_EC2E98E46D5095DF01_1415774882
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/5/1N/QS9HRS2J8J272F0X6Q00B9
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.BP_Key_C_UAID_EC2E98E46D5094DF01_2131870702
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/A/OQ/9ARM0MG0NN3XDSJRD2RWKP
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.BP_Key_C_UAID_EC2E98E46D5095DF01_1186926879
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/6/ID/F96DJIS7A6IDTZLM3Z4TNA
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.BP_Key_C_UAID_EC2E98E46D5095DF01_1188230880
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/2/C0/VBBDO37J35Z4UOC95HUIFD
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.BP_Pickup_C_UAID_EC2E98E46D5092DF01_1999235343
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/B/FB/72O3PBDLJ0FTFDG3FFLGQR
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.BP_Pickup_C_UAID_EC2E98E46D5092DF01_2030445344
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/C/NU/9Q9N9ENI27JNTIN9STQZIY
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.BP_Pickup_C_UAID_EC2E98E46D5093DF01_1114611521
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/C/43/HUBOV1FO73NZ2FNPT5J0PA
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.BP_Pickup_C_UAID_EC2E98E46D5093DF01_1129058522
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/6/D7/2FZXV1J2ZMOLBLCVVIDN6Y
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Last_Jump/Maps/TestMap
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Last_Jump/Maps/TestMap
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.DirectionalLight_UAID_EC2E98E46D5051DD01_1622680799
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/0/2I/6SZQBAV0AVWK1JO8SSERMS
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.ExponentialHeightFog_UAID_EC2E98E46D5051DD01_1637264802
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/0/FG/98SUEY71EP1X9NASTDRCXF
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Last_Jump/Maps/TestMap
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.PlayerStart_UAID_EC2E98E46D5052DD01_1612586980
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/3/RL/13A1AL9YZVU2DU0ROH24OK
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.SkyAtmosphere_UAID_EC2E98E46D5051DD01_1628062800
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/8/VQ/ETLXWFDLDQACCJWBQTQBEN
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.SkyLight_UAID_EC2E98E46D5093DF01_1169494523
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/B/TB/10ABT9457Q91I1A39H5Z89
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_UAID_EC2E98E46D5052DD01_1573278979
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/A/C4/PO2KOD7IFH9EC4YTLS2TAV
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_UAID_EC2E98E46D5052DD01_1737457981
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/A/1J/CFYI15PN59L63TCP67PKYB
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_UAID_EC2E98E46D5052DD01_1827102982
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/0/KQ/WL60RERYLEHG1GMZO9BBKJ
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_UAID_EC2E98E46D5093DF01_1421943524
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/0/KO/WN2ANHNLSHLXCDUKYH6VB0
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.VolumetricCloud_UAID_EC2E98E46D5051DD01_1631724801
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/3/2M/H2NNKA7BIEVZ7858ZCOMWV
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/1/R0/WRRIMIE7ZLZNHV5AELSDT2
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.WorldPartitionMiniMap_UAID_EC2E98E46D5051DD01_1298294791
+ |- Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/7/WF/F9P3LAOP0AYA1ATZO2EVMD
+ |- Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/Last_Jump/Maps/TestMap
+
+----------------------------------------------------------------------------------------------------------------
+TestMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=true, Min=(X=-3150.549 Y=-2412.370 Z=-3682.432), Max=(X=2787.081 Y=2133.443 Z=856.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    1 | Cell Size   12800 | Actor Count   13 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   25600 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell TestMap_MainGrid_L0_X0_Y0 (EXIEQ0DCXD5TN8TRZ4YW99FVP)
+ |   |- Actor Count: 13
+ |   |-          Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.BP_Pickup_C_UAID_EC2E98E46D5092DF01_2030445344
+ |   |-       Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/C/NU/9Q9N9ENI27JNTIN9STQZIY
+ |   |- Actor Instance Guid: 274F547D42017F1D26AE028FCFB3C274
+ |   |-          Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_UAID_EC2E98E46D5052DD01_1573278979
+ |   |-       Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/A/C4/PO2KOD7IFH9EC4YTLS2TAV
+ |   |- Actor Instance Guid: 351364D04A34952E24BAA78D9CDE8E6B
+ |   |-          Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.BP_Key_C_UAID_EC2E98E46D5095DF01_1188230880
+ |   |-       Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/2/C0/VBBDO37J35Z4UOC95HUIFD
+ |   |- Actor Instance Guid: 3B9950D546F581158BDB29A439F7845E
+ |   |-          Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_UAID_EC2E98E46D5052DD01_1737457981
+ |   |-       Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/A/1J/CFYI15PN59L63TCP67PKYB
+ |   |- Actor Instance Guid: 59E627A04ADF1AA43A023D9CCF8CECDC
+ |   |-          Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.BP_Coin_C_UAID_EC2E98E46D5094DF01_1996110701
+ |   |-       Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/9/D8/SJCUCQTH2R5K4TJ0GR07RN
+ |   |- Actor Instance Guid: 709D89D4446239F154D944972E3E2E08
+ |   |-          Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_UAID_EC2E98E46D5052DD01_1827102982
+ |   |-       Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/0/KQ/WL60RERYLEHG1GMZO9BBKJ
+ |   |- Actor Instance Guid: 915E72B34FC5AF3BE5617AA2E8BCF863
+ |   |-          Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.BP_Pickup_C_UAID_EC2E98E46D5092DF01_1999235343
+ |   |-       Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/B/FB/72O3PBDLJ0FTFDG3FFLGQR
+ |   |- Actor Instance Guid: 94700A88416F978C03F1A58E3ABC57CA
+ |   |-          Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_UAID_EC2E98E46D5093DF01_1421943524
+ |   |-       Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/0/KO/WN2ANHNLSHLXCDUKYH6VB0
+ |   |- Actor Instance Guid: 981AF0FD48404EAB9F554EAB8E929DC8
+ |   |-          Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.BP_Pickup_C_UAID_EC2E98E46D5093DF01_1129058522
+ |   |-       Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/6/D7/2FZXV1J2ZMOLBLCVVIDN6Y
+ |   |- Actor Instance Guid: 99C16E3F4CD8AA10D4376688E1580272
+ |   |-          Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.BP_Key_C_UAID_EC2E98E46D5095DF01_1186926879
+ |   |-       Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/6/ID/F96DJIS7A6IDTZLM3Z4TNA
+ |   |- Actor Instance Guid: A045840742EAF18F6780E991BBFB2FF2
+ |   |-          Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.BP_Coin_C_UAID_EC2E98E46D5095DF01_1415774882
+ |   |-       Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/5/1N/QS9HRS2J8J272F0X6Q00B9
+ |   |- Actor Instance Guid: BF58F34F40C8465BDAE089A15BDFE462
+ |   |-          Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.BP_Pickup_C_UAID_EC2E98E46D5093DF01_1114611521
+ |   |-       Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/C/43/HUBOV1FO73NZ2FNPT5J0PA
+ |   |- Actor Instance Guid: EF7AD8934B4CD1A87A0D3A976416A0C4
+ |   |-          Actor Path: /Game/Last_Jump/Maps/TestMap.TestMap:PersistentLevel.BP_Key_C_UAID_EC2E98E46D5094DF01_2131870702
+ |   |-       Actor Package: /Game/__ExternalActors__/Last_Jump/Maps/TestMap/A/OQ/9ARM0MG0NN3XDSJRD2RWKP
+ |   |- Actor Instance Guid: F9C9A42244B1D39C9E8B53B2162DC1CE
+[+] Content of Grid Level 1
+
